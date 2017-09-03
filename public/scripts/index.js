@@ -1,6 +1,3 @@
-
-// const publicKey = 'BG5ViyTtOO3mdDehzQSKLtPKm0BqZqE7JACqbd6ZbiHXculBfpVbrDIAMr8VCFhfi_rbg5HjnkcmQdHY-9HWP1M'
-
 const pathToServiceWorker = 'scripts/sw.js'
 let registrator
 
